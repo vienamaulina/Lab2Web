@@ -9,7 +9,7 @@
 
 <p> index.html <p>
 
-'''php
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,5 +43,5 @@
 </body>
 </html>
 
-'''
+```
 
