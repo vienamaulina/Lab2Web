@@ -125,7 +125,7 @@
 <head>
 <body>
     <h1> Belajar PHP Dasar </h1>
-    <h1> Menggunakan Varable </h1>
+    <h1> Menggunakan Variable </h1>
 <?php
     echo "Hello World" ;
     echo "<br>";
@@ -138,7 +138,7 @@
 </html>
 ```
 
-![gambar 6](ss/2.png)
+![gambar 6](ss/11.png)
 
 <h4> Predefine Variable
 
